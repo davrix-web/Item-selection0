@@ -7,6 +7,9 @@ h1{
     font-family: serif;
     color: #3777ff;
 }
+h3{
+    color: #3776ff9d;
+}
 label{
     color: #8b8c89;
 }
@@ -35,8 +38,5 @@ button:hover{
     cursor: pointer;
 }
 img{
-    position: absolute;
     width: 200px;
-    left: 0;
-    top: 560px;
 }
